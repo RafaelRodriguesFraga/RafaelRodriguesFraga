@@ -30,11 +30,9 @@
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 
-<br/><br/>
-
 ## My Development Stack
 
-<code><img height="32" src="https://user-images.githubusercontent.com/29709111/103175151-96368c80-4846-11eb-9dd9-8aebf79427e0.png" alt="Android"/></code>
+<code><img height="32" src="https://seeklogo.com/images/A/android-icon-logo-DB06FA8B39-seeklogo.com.png" alt="Android"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -43,7 +41,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL"/></code>
+<code><img height="32" src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB"/></code>
 
+## Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRodriguesFraga&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
