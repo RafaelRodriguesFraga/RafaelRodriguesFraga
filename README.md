@@ -23,7 +23,7 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/rafael-fraga-b53a9890/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://user-images.githubusercontent.com/29709111/133900034-e46ea8d3-5315-491f-8a15-d3976d2649fe.png" /></code>
 </a>
 
 <a href="mailto:ti.rafaelfraga@gmail.com">
