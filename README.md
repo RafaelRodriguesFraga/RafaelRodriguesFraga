@@ -4,18 +4,18 @@
 <p>
   I'm Rafael Fraga, a Junior Fullstack Developer from 
   <img width="16" src="https://user-images.githubusercontent.com/29709111/133898615-874e7d5d-b1c5-44c5-92b6-4baf737fb0f3.png" alt="Brazil" />
-  <b>Brazil</b>, currently living in Cariacica, Espirito Santo and working for MedSenior.
+  <b>Brazil</b>, currently living in Vitoria, Espirito Santo.
   
   I have a degree in Information System 💻
 </p>
 
 ### Talking about Personal Stuffs
 
-- 🏆 My favorite language at the moment is Javascript;
+- 🏆 My favorite language at the moment is C# having 2+ years of experience;
 
-- :pencil2: I'm currently studying the MERN Stack;
+- :pencil2: I'm currently studying Front ENd (ReactJs + Typescript;
 
-- :iphone: I'm know a little Native Android Development with Java
+- :iphone: I'm know the basics of React Native
 
 - 💬 Ask me about anything, I am happy to help if I can;
 
